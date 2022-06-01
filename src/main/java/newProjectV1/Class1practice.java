@@ -8,6 +8,9 @@ public class Class1practice
 	public void method() 
 	{
 	System.out.println("class parra1");
+	
+	
+	System.out.println("tukaram parhad");
 	}
 
 }
